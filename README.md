@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server for managing notes in Markdown format. Built with Python and the FastMCP SDK.
 
+<a href="https://glama.ai/mcp/servers/@sayranovv/notes-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@sayranovv/notes-mcp-server/badge" alt="Notes Server MCP server" />
+</a>
+
 ## 🌟 Features
 
 - **Create Notes**: Create new Markdown notes with titles, content, and tags
